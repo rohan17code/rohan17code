@@ -1,6 +1,5 @@
 # 💫 About Me
 
-## 👨‍💻 About Me
 🔭 Working on  
 - Full-Stack Web Development Projects  
 - AI-powered Applications using LLMs, RAG & OCR  
