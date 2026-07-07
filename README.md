@@ -54,6 +54,9 @@
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rohan17code&theme=dark&hide_border=false)
-![Streak](https://streak-stats.demolab.com?user=rohan17code&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan17code&layout=compact&theme=dark)
+
+![Stats](https://github-readme-stats-green-mu-43.vercel.app/api?username=rohan17code&show_icons=true&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=rohan17code&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats-green-mu-43.vercel.app/api/top-langs/?username=rohan17code&layout=compact&theme=dark&hide_border=true)
